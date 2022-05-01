@@ -13,7 +13,7 @@ const memberSchema = new mongoose.Schema({
   gender: { type: String, required: true },
   catogery: { type: catogerySchema, required: true },
   desc: { type: String, required: true, maxlength: 2550 },
-  phone: { type: Number, required: true, maxlength: 10 },
+  phone: { type: String, maxlength: 10 },
   image: { type: String, maxlength: 1024 },
 });
 

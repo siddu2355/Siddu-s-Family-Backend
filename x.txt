@@ -2,7 +2,8 @@
     "age":12,
     "email":"rahaksle@gmail.com",
     "gender":"Male",
-    "dob":"09-09-9876",
     "catogery":"Adult",
     "phone":"987654321",
     "desc":"siddu"
+
+mongodb+srv://siddu2355:siddu2355@cluster0.yhpqq.mongodb.net/family?retryWrites=true&w=majority
