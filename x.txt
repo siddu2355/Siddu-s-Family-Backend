@@ -1,0 +1,8 @@
+    "name":"siddu reddy",
+    "age":12,
+    "email":"rahaksle@gmail.com",
+    "gender":"Male",
+    "dob":"09-09-9876",
+    "catogery":"Adult",
+    "phone":"987654321",
+    "desc":"siddu"
