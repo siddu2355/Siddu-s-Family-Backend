@@ -13,7 +13,9 @@ if (!config.get("jwtPrivateKey")) {
 }
 
 mongoose
-  .connect("mongodb://localhost/family")
+  .connect(
+    "mongodb+srv://siddu2355:siddu2355@cluster0.yhpqq.mongodb.net/family?retryWrites=true&w=majority"
+  )
   .then(() => console.log("Connected to mongoDB..."))
   .catch((e) => console.log("could not connect to mongoDB", ex));
 
