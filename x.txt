@@ -1,9 +1,0 @@
-    "name":"siddu reddy",
-    "age":12,
-    "email":"rahaksle@gmail.com",
-    "gender":"Male",
-    "catogery":"Adult",
-    "phone":"987654321",
-    "desc":"siddu"
-
-mongodb+srv://siddu2355:siddu2355@cluster0.yhpqq.mongodb.net/family?retryWrites=true&w=majority
